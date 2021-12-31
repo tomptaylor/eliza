@@ -1,2 +1,1 @@
-# eliza
-Created with CodeSandbox
+## README
